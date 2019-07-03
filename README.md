@@ -46,7 +46,7 @@ Abreviações Jurídicas com Autohotkey para petições e atendimento
 
 **.ccpj**... ; para depósitos na sua pessoa jurídica
 
-**.mm**MM. Juiz:.Pede Deferimento. ;para a petição mais simples, online no sistema judicial
+**.mm:** MM. Juiz:.Pede Deferimento. ;para a petição mais simples, online no sistema judicial
 
 **.par:** §
 
